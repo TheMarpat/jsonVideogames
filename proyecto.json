@@ -1,14 +1,15 @@
 {"videogames": [
       {
         "name": "Battlefield V",
-        "developer": "Electronic Arts",
-        "secretIdentity": "Dan Jukes",
+        "developer": "DICE",
+        "seller": "Electronic Arts",
         "platforms": [
           "Playstation 4",
           "Xbox One",
           "Microsoft Windows"
         ],
-        "image":"https://gpstatic.com/acache/36/91/1/uk/packshot-778c0294f849418f53b4a0e913dccb19.jpg" 
+        "image":"https://gpstatic.com/acache/36/91/1/uk/packshot-778c0294f849418f53b4a0e913dccb19.jpg",
+        "description":"Battlefield V es un videojuego de disparos y acción bélica en primera persona​ desarrollado por DICE y distribuido por Electronic Arts. El videojuego fue lanzado el 20 de noviembre de 2018 en las plataformas PlayStation 4, Xbox One y Microsoft Windows.​ Es el décimo sexto juego de la serie Battlefield y el tercer título de la serie que se ambienta en la Segunda Guerra Mundial"
       }
     ]
 }

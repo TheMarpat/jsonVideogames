@@ -10,6 +10,44 @@
         ],
         "image":"https://gpstatic.com/acache/36/91/1/uk/packshot-778c0294f849418f53b4a0e913dccb19.jpg",
         "description":"Battlefield V es un videojuego de disparos y acción bélica en primera persona​ desarrollado por DICE y distribuido por Electronic Arts. El videojuego fue lanzado el 20 de noviembre de 2018 en las plataformas PlayStation 4, Xbox One y Microsoft Windows.​ Es el décimo sexto juego de la serie Battlefield y el tercer título de la serie que se ambienta en la Segunda Guerra Mundial"
+      },
+      {
+        "name": "Borderlands 3",
+        "developer": "Gearbox Software",
+        "seller": "2k Games",
+        "platforms": [
+          "Playstation 4",
+          "Xbox One",
+          "Microsoft Windows",
+          "Google Stadia"
+        ],
+        "image":"https://sm.ign.com/ign_es/screenshot/default/borderlands3-es-standard_rcgr.jpg",
+        "description":"Borderlands 3 es un videojuego de disparos en primera persona con elementos de rol, se trata de la secuela del videojuego de 2012, Borderlands 2. Fue desarrollado por Gearbox Software y distribuido por 2K Games para las plataformas Microsoft Windows, PlayStation 4 y Xbox One. Se confirmó un puerto de Google Stadia para una fecha de lanzamiento posterior."
+      },
+      {
+        "name": "Cuphead",
+        "developer": "Jared Moldenhauer",
+        "seller": "StudioMDHR",
+        "platforms": [
+          "Playstation 4",
+          "Xbox One",
+          "Microsoft Windows",
+          "Nintendo Switch"
+        ],
+        "image":"https://http2.mlstatic.com/cuphead-deluxe-edition-pc-envio-digital-offline-D_NQ_NP_788032-MLB29273392821_012019-F.jpg",
+        "description":"Cuphead (subtitulado 'No hagas tratos con el Diablo') es un videojuego independiente perteneciente al género de plataformas, desarrollado y producido por la compañía StudioMDHR. Fue lanzado al mercado el 29 de septiembre de 2017 para Microsoft Windows, Xbox One y Steam."
+      },
+      {
+        "name": "Call of Duty : Modern Warfare 2019",
+        "developer": "Infinity Ward",
+        "seller": "Activision",
+        "platforms": [
+          "Playstation 4",
+          "Xbox One",
+          "Microsoft Windows"
+        ],
+        "image":"https://erc.ua/cache/media/1200_1200_inset/upload/uploaded_images/185/5d24a73a99383_pb_keyart_primary_rgb-en.jpg",
+        "description":"Call of Duty: Modern Warfare es un videojuego de disparos en primera persona desarrollado por Infinity Ward y publicado por Activision. Es el decimosexto juego de la saga Call of Duty y es una Precuela de la serie Modern Warfare."
       }
     ]
 }

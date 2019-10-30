@@ -1,0 +1,14 @@
+{"videogames": [
+      {
+        "name": "Battlefield V",
+        "developer": "Electronic Arts",
+        "secretIdentity": "Dan Jukes",
+        "platforms": [
+          "Playstation 4",
+          "Xbox One",
+          "Microsoft Windows"
+        ],
+        "image":"https://gpstatic.com/acache/36/91/1/uk/packshot-778c0294f849418f53b4a0e913dccb19.jpg" 
+      }
+    ]
+}
